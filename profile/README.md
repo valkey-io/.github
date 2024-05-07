@@ -2,7 +2,7 @@ Valkey is an open source, in memory datastore released under the [BSD-3 Clause L
 
 ## Community 🎉
 
-- 🎙️ Chat with us on [Slack](https://join.slack.com/t/valkey-oss-developer/shared_invite/zt-2haj75jfq-3xj~tErWhedsldu~4UxNPw) or [Discord](https://discord.gg/zbcPa5umUB) 
+- 🎙️ There are so many ways to [connect with us](https://valkey.io/connect.html)!
 - ❔ Feel free to post on [Stack Overflow](https://stackoverflow.com/questions/tagged/valkey) and tag with `[valkey]`
 
 ## Contributing
